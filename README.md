@@ -1,2 +1,2 @@
 # CAFusion
-The code will be available.
+The core code and model parameters of the method will be made publicly available.
